@@ -14,7 +14,6 @@ Download python from https://www.python.org/downloads/
     Django==2.1.1
     djangorestframework==3.8.2
     
-    $ pip install requirement.txt
 
 ### API's:
 1. **Get All Restaurants**:
